@@ -1,0 +1,40 @@
+streamlit
+httpx
+
+
+
+# Core API framework
+fastapi
+uvicorn
+
+# LangChain + Agents + Tools
+langchain
+langchain-core
+langchain-community
+crewai
+
+# # Ollama LLM wrapper
+# ollama==0.1.8
+
+# For streaming response, async tools
+aiohttp
+httpx
+sse-starlette
+
+# Comet Opik for observability
+# opik
+
+# Auth and security
+python-dotenv
+python-multipart
+passlib[bcrypt]
+bcrypt
+
+# CORS for frontend support
+starlette
+
+# Utility tools
+duckduckgo-search
+pydantic
+typing-extensions
+
